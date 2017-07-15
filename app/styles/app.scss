@@ -1,0 +1,10 @@
+@import "base/variables";
+
+/*foundation*/
+@import "base/foundation-settings";
+@import "../../node_modules/foundation-sites/scss/foundation";
+@import "../../node_modules/foundation-sites/scss/grid/classes";
+@import "../../node_modules/foundation-sites/scss/grid/column";
+@include foundation-everything;
+/*Components*/
+
